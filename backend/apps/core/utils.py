@@ -72,3 +72,4 @@ def truncate_text(text: str, max_chars: int = 8000) -> str:
         return text
     return text[: text.rfind(" ", 0, max_chars)] + "..."
 
+
