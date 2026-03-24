@@ -126,4 +126,3 @@ docker compose exec frontend npm test -- --run
 - [ ] GitHub webhook integration for auto-reviewing PRs
 - [ ] Diff-based review mode (right now it's full file snapshots)
 - [ ] Feedback loop on AI suggestions to improve prompts
-- [ ] Rate limiting on suggestion endpoint
